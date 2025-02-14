@@ -46,7 +46,7 @@ This project analyzes oil spill data from NOSDRA to assess corporate responsibil
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/oil-spill-analysis.git
+   git clone https://github.com/bravechristian/oil-spill-analysis.git
    ```
 2. Navigate into the project directory:
    ```bash
